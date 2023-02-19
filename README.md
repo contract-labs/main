@@ -1,2 +1,2 @@
-# main
-Development and deployment of smart contracts.
+# contract-labs
+Welcome to Contract-Labs!
